@@ -82,4 +82,3 @@ Bangalore, India
 
 - Karate & Fitness  
 - Exploring AI and its real-world applications  
-- Contributing to open-source projects
